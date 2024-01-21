@@ -1,6 +1,7 @@
 {
   "name": "personal-website",
   "version": "0.1.0",
+  "homepage": "https://rachelchen8741.github.io/", 
   "private": true,
   "dependencies": {
     "@heroicons/react": "^2.1.1",
