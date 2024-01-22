@@ -9,12 +9,11 @@ export default function Projects() {
     <section id="projects" className="text-gray-400 bg-black body-font">
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
         <div className="flex flex-col w-full mb-20">
-        <CursorArrowRaysIcon className="mx-auto inline-block w-10 mb-4" />
-          <h1 className="sm:text-4xl text-3xl font-medium title-font mb-2 text-white">
+        <CursorArrowRaysIcon className="mx-auto inline-block w-10 mb-4 text-white" />
+          <h1 className="sm:text-4xl text-3xl font-medium title-font mb-3 text-white">
             Projects
           </h1>
-          <br></br>
-          <p>
+          <p >
             These are a few of my projects!
             Hover over them to learn more.
           </p>

@@ -30,8 +30,8 @@ export const projects = [
         title: "Personal Website",
         subtitle: "Personal Project",
         description:
-          "Created a personal website to showcase my portfolio, projects, and skills. Explore the person behind the code! (Woah, it's like inception!)",
-        image: "./personalwebsite.gif",
+          "Created a personal website to showcase my portfolio, projects, and skills. Explore the person behind the code! (Woah, it's like Inception!)",
+        image: "./web.gif",
         link: "https://github.com/RachelChen8741/Wing-Shing-Website",
         target: "_blank",
       },
@@ -57,9 +57,9 @@ export const projects = [
       description: "Leads committees to execute various initiatives (e.g. study breaks, trips, community engagement, etc.) and organizes events to improve the residential experience of over 500 students based on student feedback.",
     },
     {
-      organization: "COS (Computer Science) Council",
+      organization: "COS Council",
       title: "Communications chair", 
-      description: "Creates flyers to promote community building events that engage the COS community of over 500 students and maintains the COS Council’s digital presence through updating the official website and Instagram.",
+      description: "Creates flyers to promote community building events that engage the computer science community of over 500 students and maintains the COS Council’s digital presence through updating the official website and Instagram.",
     },
     {
       organization: "Chinese Students Association",

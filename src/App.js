@@ -8,6 +8,7 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Extracurriculars from "./components/Extracurriculars";
 import Footer from "./components/Footer";
+import Bio from "./components/Bio";
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
       <Projects />
       <Skills />
       <Extracurriculars />
+      <Bio />
       <Contact />
       <Footer />
     </main>
