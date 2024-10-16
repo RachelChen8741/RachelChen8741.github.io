@@ -10,7 +10,7 @@ export default function Navbar() {
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-4 md:mb-0">
         <a href="#about" className="ml-3 text-xl text-white active:text-pink-200 flex items-center">
-  <img src="/maybe.png" className="w-12 h-12 mr-2" />
+  <img src="/RCtran.png" className="w-12 h-12 mr-2" />
   Rachel Chen
 </a>
         </a>
